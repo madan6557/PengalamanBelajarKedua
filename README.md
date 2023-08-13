@@ -7,3 +7,4 @@ Progress belajar Github saat repository ini dicommit. (Progres 42%)
 * Belajar cara menggunakan git di github.
 
 * Mempraktekkan apa yang dipelajari.
+* .
